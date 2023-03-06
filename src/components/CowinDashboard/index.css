@@ -1,0 +1,20 @@
+.container-1 {
+  background-color: white;
+  padding: 30px;
+}
+
+.co-win-head {
+  color: #2cc6c6;
+}
+
+.nav-bar {
+  display: flex;
+}
+
+.image-logo {
+  width: 30px;
+}
+
+.co-win-india {
+  color: #cbd5e1;
+}
